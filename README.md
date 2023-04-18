@@ -1,4 +1,4 @@
-# ResBaz
+# [ResBaz 2023](https://researchbazaar.arizona.edu/resbaz/Arizona2023/)
 
 Track A: https://hackmd.io/RSqUhB37SJWtMVXNfZG1NQ?view#Workshop-Intro-to-text-analysis
 
